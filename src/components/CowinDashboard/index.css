@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.cowin-app-container {
+  display: flex;
+  justify-content: center;
+  background-color: #161625;
+  min-height: 100vh;
+  padding: 30px 0px;
+  font-family: 'Roboto';
+}
+
+.sub-cowin-app-container {
+  width: 100%;
+  max-width: 1140px;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.web-logo {
+  width: 50px;
+}
+
+.app-title {
+  font-size: 28px;
+  color: #2cc6c6;
+  margin-left: 20px;
+}
+
+.cowin-in-india-title {
+  color: #fff;
+}
+
+.failure-msg {
+  color: #fff;
+  font-family: 'Bree serif';
+}
+
+.views-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 70vh;
+}
+
+.failure-img {
+  width: 400px;
+}

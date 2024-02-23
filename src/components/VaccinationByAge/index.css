@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.vaccine-container {
+  background-color: #1c1c2b;
+  padding: 10px 25px;
+  border-radius: 5px;
+  margin-top: 30px;
+}
+
+.pie-chart-title {
+  color: #cbd5e1;
+}

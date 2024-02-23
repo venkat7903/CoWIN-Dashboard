@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.bar {
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+}
+
+.vaccine-coverage-container {
+  background-color: #1c1c2b;
+  padding: 20px 25px;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.vaccine-coverage-title {
+  color: #cbd5e1;
+}
