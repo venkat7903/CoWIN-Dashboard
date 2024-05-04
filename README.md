@@ -1,7 +1,7 @@
 In this project, let's build a **CoWIN Dashboard** by applying the concepts we have learned till now.
 
 
-### Refer to the images below:
+### Refer to the images below
 
 <br/>
 <div style="text-align: center;">
